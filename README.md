@@ -45,12 +45,4 @@ Viewing confidence score
 
 
 
-AI-Based-Fake-Seed-Detector/
-|
-|-- app.py
-|-- Fake_seed_detector.ipynb
-|-- seed_model.h5
-|-- requirements.txt
-|-- dataset_link.txt
-|-- FAKE SEED DETECTOR.pptx
-|-- README.md
+
